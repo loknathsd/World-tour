@@ -1,0 +1,16 @@
+.countries-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap : 10px;
+   
+}
+.country-container{
+    border: 1px solid palevioletred;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+#country-detail img{
+    width: 200px;
+}
